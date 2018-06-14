@@ -1,0 +1,31 @@
+{
+  "name": "smuthesis",
+  "version": "1.2.0",
+  "description": "Shanghai MariTime University Thesis LaTex Template. Base on thuthesis.",
+  "main": "gulpfile.js",
+  "private": true,
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunYouJun/smuthesis.git"
+  },
+  "keywords": [
+    "LaTeX",
+    "ThuThesis",
+    "SmuThesis"
+  ],
+  "author": "YunYouJun",
+  "license": "LPPL",
+  "bugs": {
+    "url": "https://github.com/YunYouJun/smuthesis/issues"
+  },
+  "homepage": "https://github.com/YunYouJun/smuthesis#README",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "gulp-zip": "^4.0.0"
+  }
+}

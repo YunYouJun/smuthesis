@@ -1,0 +1,39 @@
+auto
+node_modules
+# package-lock.json
+dist
+.DS_Store
+*~
+*.aux
+*.bak
+*.bbl
+*.blg
+*.dvi
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.log
+*.out
+*.thm
+*.toc
+*.lof
+*.lot
+*.loe
+*.vrb
+*.hd
+*.fdb_latexmk
+*.fls
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.xdv
+dtx-style.sty
+# thuthesis.cls
+# thuthesis.cfg
+# thuthesis.pdf
+# main.pdf
+# shuji.pdf
