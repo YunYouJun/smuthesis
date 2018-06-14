@@ -58,7 +58,7 @@ thuthesis.pdf | ThuThesis 使用说明
 
 本模板基于 [ThuThesis](https://github.com/xueruini/thuthesis) 修改，其他具体使用方法可参考 ThuThesis [使用说明](thuthesis.pdf)以及[示例文档](main.pdf)。
 
-> 本项目中包括 ThuThesis 使用说明 (thuthesis.pdf)。示例文档（main.pdf）为根据上海海事大小格式修改后的文档。
+> 本项目中包括 ThuThesis 使用说明 (thuthesis.pdf)。示例文档（main.pdf）为根据上海海事大学格式修改后的文档。
 
 ---
 
@@ -119,3 +119,5 @@ make [{all|thesis|shuji|doc|clean|cleanall|distclean}] \
 本模板未对编译源文件进行修改，仅修改了编译后的样式文件。
 
 如果你对 LaTex 的使用较为熟练，并有需要定制的效果，推荐直接使用 [ThuThesis](https://github.com/xueruini/thuthesis) 模板。
+
+如果您对此有什么问题建议，可以提 ISSUE，或者 Pull Request。
